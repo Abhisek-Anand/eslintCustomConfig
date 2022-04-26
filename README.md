@@ -1,0 +1,2 @@
+# eslintCustomConfig
+Custom Eslint configuration 
